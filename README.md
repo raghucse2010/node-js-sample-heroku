@@ -16,7 +16,6 @@ A sample barebone for running node js on heroku server.
   and you should be able to see app running on localhost:5000. <br/>
   
 # Deploying on Heroku
-  
   1. Install Heroku Toolbelt from https://toolbelt.heroku.com/ 
   2. Use command line to login into heroku account : heroku login 
   3. Create app using : heroku create node-app-samplex
